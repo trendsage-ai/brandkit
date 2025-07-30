@@ -6,15 +6,15 @@ This repository contains the official brand guidelines and editorial style guide
 
 ## Guides
 
-- [Brand Guidelines]([./guides/TrendSage-Brand-Book-Guidelines_2025-1.pdf](https://github.com/trendsage-ai/brandkit/blob/main/TrendSage%20BrandKit.pdf))
+- [Brand Guidelines](https://github.com/trendsage-ai/brandkit/blob/main/TrendSage%20BrandKit.pdf)
 
 ## Fonts
 
-- [Fonts]([./fonts/TrendSage-Fonts.zip](https://github.com/trendsage-ai/brandkit/tree/main/font))
+- [Fonts](https://github.com/trendsage-ai/brandkit/tree/main/font)
 
 ## Logos
 
-- [Logos]([./logo/TrendSageWhite.svg](https://github.com/trendsage-ai/brandkit/blob/main/logo/TrendSage_LOGO.svg))
+- [Logos](https://github.com/trendsage-ai/brandkit/blob/main/logo/TrendSage_LOGO.svg)
 
 ![TrendSageWhite]([./logo/TrendSageWhite.svg](https://github.com/trendsage-ai/brandkit/blob/main/logo/TrendSage_White_logo.png))
 
